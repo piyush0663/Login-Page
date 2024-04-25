@@ -20,7 +20,7 @@ This repository contains a simple and secure registration page designed to strea
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `login.html` file in your preferred web browser.
 3. Fill out the registration form and submit your details to sign up.
 4. Start using the registration page in your projects or customize it according to your requirements.
 
