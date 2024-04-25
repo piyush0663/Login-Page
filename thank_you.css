@@ -1,0 +1,35 @@
+/* Styling for the body and heading */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    /* Optional: Set background color for the page */
+   font-size: 50px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgba(91, 23, 218, 0.74);
+  }
+  
+  /* Styling for the thank you message */
+  p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    color:rgb(28, 125, 216);
+    font-size: 30px;
+  }
+  .form-container::before {
+    content: "";
+    background-image: url("./goku4.webp");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 1.7; /* Adjust this value to control the blur effect */
+    filter: blur(2px); /* Adjust this value to control the blur amount */
+    z-index: -1;
+  }   
